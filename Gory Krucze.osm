@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-25355' action='modify' lat='50.6593664' lon='16.0030822'>
+    <tag k='description' v='Przełęcz Wiązowna' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='124' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25356' action='modify' lat='50.6661378' lon='16.0187853'>
+    <tag k='description' v='BHP-Krzyżówka' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='125' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25357' action='modify' lat='50.6731825' lon='16.0229908'>
+    <tag k='description' v='Trzy Buki' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='126' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25358' action='modify' lat='50.6879547' lon='16.0063933'>
+    <tag k='description' v='Kruczy Kamień' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='127' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25359' action='modify' lat='50.7017039' lon='16.0269392'>
+    <tag k='description' v='[ Półśrodka' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='128' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25360' action='modify' lat='50.6610644' lon='16.0131633'>
+    <tag k='description' v='żółty od BHP na południe' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='129' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25361' action='modify' lat='50.6819044' lon='16.0273494'>
+    <tag k='description' v='zielony Płonina' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='130' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25362' action='modify' lat='50.7242719' lon='15.9738528'>
+    <tag k='description' v='zielony z Błażkowa' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='131' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25363' action='modify' lat='50.7174792' lon='15.9553992'>
+    <tag k='description' v='Wiata pod Zadzierną' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='132' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25364' action='modify' lat='50.7220672' lon='16.0190214'>
+    <tag k='description' v='rejon Czarnogóry-czerwony' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='133' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25365' action='modify' lat='50.6891033' lon='15.9118831'>
+    <tag k='description' v='niebieski Niedomirów' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='134' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25366' action='modify' lat='50.7254669' lon='15.9593475'>
+    <tag k='description' v='czerwony z Paprotek' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='136' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25367' action='modify' lat='50.7222072' lon='15.9595192'>
+    <tag k='description' v='Zadzierna' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='137' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25368' action='modify' lat='50.6619669' lon='16.0097408'>
+    <tag k='description' v='zielony od BHP do granicy' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='179' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25369' action='modify' lat='50.6545292' lon='16.0115594'>
+    <tag k='description' v='Droga p.poż nr.13' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='180' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25370' action='modify' lat='50.6506272' lon='16.0038828'>
+    <tag k='description' v='[ Mała' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='181' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25371' action='modify' lat='50.6755417' lon='16.0073806'>
+    <tag k='description' v='Bógdał krzyżówka' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='182' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25372' action='modify' lat='50.7355144' lon='16.0320675'>
+    <tag k='description' v='czerwony nad Krzeszowem' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='184' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25373' action='modify' lat='50.6525717' lon='16.0036575'>
+    <tag k='description' v='Małe Siodło-granica' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='185' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25374' action='modify' lat='50.6810106' lon='15.9905683'>
+    <tag k='description' v='zielony granica' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='186' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25375' action='modify' lat='50.6838114' lon='16.0176908'>
+    <tag k='description' v='Starzec-zielony' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='187' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25376' action='modify' lat='50.6970514' lon='16.0379897'>
+    <tag k='description' v='Krzyżówka pod Świstakiem' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='188' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25377' action='modify' lat='50.6900375' lon='16.0377325'>
+    <tag k='description' v='Trzy Kawałki' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='189' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25378' action='modify' lat='50.679235' lon='16.0386658'>
+    <tag k='description' v='droga p.poż nr.12' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='190' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25379' action='modify' lat='50.6639289' lon='16.0280697'>
+    <tag k='description' v='niebieski od Błażejowa' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='191' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25380' action='modify' lat='50.6462975' lon='16.0027697'>
+    <tag k='description' v='Schron turystyczny' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='193' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+  <node id='-25381' action='modify' lat='50.6499822' lon='16.0104703'>
+    <tag k='description' v='ambona nr.8' />
+    <tag k='emergency' v='access_point' />
+    <tag k='emergency_telephone_code' v='112;985' />
+    <tag k='highway' v='emergency_access_point' />
+    <tag k='operator' v='GOPR' />
+    <tag k='ref' v='194' />
+    <tag k='source' v='Grupa Karkonoska GOPR' />
+  </node>
+</osm>
